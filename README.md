@@ -36,4 +36,6 @@ BUG FOUND: middle 3x3 won't highlight.  NEED FIX.
 
 
 new Objective: alongside all the old ones. Check whether the game works properly. Check the functions of PlayerClickButton method properly. 
-
+bugs found: button 62,72,78 didn't highlight thr grid first try but did it on sceond try
+            after playing 3 straight continious games button 40,43,34 didn't highlight the grid after this non of the matched button 
+            didn't hightlight the grid.
